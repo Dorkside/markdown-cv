@@ -1,29 +1,27 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: James D. Martin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# James D. Martin
+Developer, sailor, human.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="contact@james-martin.dev">contact@james-martin.dev</a>
+| <a href="https://james-martin.dev">james-martin.dev</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Developing the future of Law @ AXA
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Javascript, Front-end, Full-stack, Finding solutions
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+DevOps, Sailing, Green-coding.
 
 ## Education
 

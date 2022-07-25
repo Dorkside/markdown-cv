@@ -3,7 +3,7 @@ layout: cv
 title: James D. Martin
 ---
 # James D. Martin
-Developer, sailor, human.
+Développeur, navigateur, humain.
 
 <div id="webaddress">
 <a href="contact@james-martin.dev">contact@james-martin.dev</a>
@@ -11,17 +11,17 @@ Developer, sailor, human.
 </div>
 
 
-## Currently
+## Actuellement
 
-Developing the future of Law @ AXA
+En train de développer l'avenir de la Loi @ AXA
 
-### Specialized in
+### Spécialités
 
-Javascript, Front-end, Full-stack, Finding solutions
+Javascript, Front-end, Full-stack, Trouver des solutions
 
-### Research interests
+### Intérêts
 
-DevOps, Sailing, Green-coding
+DevOps, Voile, Green-coding
 
 ## Education
 

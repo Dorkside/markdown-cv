@@ -5,10 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: html to pdf
-      uses: misaelnieto/web_to_pdf_action@master
+      uses: markwilson/html2pdf@v1.0
       with:
-        webPageURL: https://www.noenieto.com/resume/
-        outputFile: ./public/resume.pdf
-        usePuppeteer: true
-        useScreen: true
-        pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+        htmlPath: 'https://dorkside.github.io/markdown-cv/index.html'
+        pdfName: 'test'

@@ -25,7 +25,7 @@ DevOps, Sailing, Green-coding
 
 ## Education
 
-`1654-1660`
+`2022`
 __The King's School, Grantham.__
 
 `June 1661 - now`

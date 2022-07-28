@@ -33,13 +33,16 @@ DevOps, Sailing, Green-coding, Science
 __Ingénieur en informatique__
 
 - Architecture et intégration des systèmes et logiciels
+
 _CNAM_
 
 `2015`
 __BTS SIO__
 
 - BTS Service Informatique aux Organisations
+
 Option SLAM (Solutions Logicielles et Applications Métier)
+
 _Lycée la Martinière-Duchère, Lyon_
 
 ## Languages

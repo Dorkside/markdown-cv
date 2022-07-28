@@ -3,13 +3,17 @@ layout: cv
 title: James D. Martin
 ---
 # James D. Martin
-Developer, sailor, human.
+Developer, Tech lead, sailor.
 
 <div id="webaddress">
 <a href="contact@james-martin.dev">contact@james-martin.dev</a>
 | <a href="https://james-martin.dev">james-martin.dev</a>
 </div>
 
+Born 27/10/1989
+
+B Driving License
+G Work permit
 
 ## Currently
 
@@ -21,32 +25,33 @@ Javascript, Front-end, Full-stack, Finding solutions
 
 ### Research interests
 
-DevOps, Sailing, Green-coding
+DevOps, Sailing, Green-coding, Science
 
 ## Education
 
-`2022`
-__The King's School, Grantham.__
+`In progress`
+__Ingénieur en informatique__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Architecture et intégration des systèmes et logiciels
+_CNAM_
 
-- Sizar
+`2015`
+__BTS SIO__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- BTS Service Informatique aux Organisations
+Option SLAM (Solutions Logicielles et Applications Métier)
+_Lycée la Martinière-Duchère, Lyon_
 
-- Fellow
+## Languages
 
+`Bilingual`
+French
 
+`Bilingual`
+English
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`Fluent`
+Italian
 
 
 ## Publications

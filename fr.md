@@ -2,32 +2,32 @@
 layout: cv
 title: James D. Martin
 ---
-# James D. Martin
+# ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
 Tech lead, Développeur, Navigateur.
 
 <div id="webaddress">
 <a href="contact@james-martin.dev">contact@james-martin.dev</a>
 | <a href="https://james-martin.dev">james-martin.dev</a>
 </div>
+:telephone_receiver: +33(0)7.62.68.60.70
 
-Né le 27/10/1989
-
-Permis de conduire B
+Né le 27/10/1989  
+Permis de conduire B  
 Permis de travail G
 
 ## Actuellement
 
-En train de développement le futur de la LegalTech @ AXA
+En train de développer le futur de la LegalTech @ AXA
 
-### Specialized in
+### Specialités
 
-Javascript, Front-end, Full-stack, Conception de solutions
+Full-stack, Conception de solutions, Front-end
 
-### Interests
+### Intérêts
 
 DevOps, Voile, Green-coding, Science
 
-## Education
+## Formation
 
 `En cours`
 __Ingénieur en informatique__
@@ -45,48 +45,34 @@ _Lycée la Martinière-Duchère, Lyon_
 `Bilingue`
 Français
 
-`Bilingual`
+`Bilingue`
 Anglais
 
 `Courant`
 Italien
 
+## Expériences
 
-## Publications
+`Juillet 2021 - Aujourd'hui`
+__Tech lead__, AXA
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
+- Warden  
+_Vue,NodeJS_
 - Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Juillet 2019 - Juin 2021`
+__Développeur logiciel senior__, AXA
+
+- Warden  
+_Vue,NodeJS_
+- Minted coins
 
 
+`2014`
+__Co-fondateur & développeur full-stack__, InstanT
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Dernière mise à jour: Juillet 2022 -->
 
 

@@ -1,0 +1,18 @@
+img[alt~="portrait"] {
+  position:absolute;
+  top:-32px;
+  left:-32px;
+  transform: translateX(-100%);
+  max-width: 168px;
+  border-radius: 32px;
+  border: solid 2px black;
+  margin-left: 16px;
+}
+
+h1 {
+  margin-top: 100px;
+}
+
+.emoji {
+  margin-bottom: -4px;
+}

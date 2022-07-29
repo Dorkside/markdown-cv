@@ -3,50 +3,53 @@ layout: cv
 title: James D. Martin
 ---
 # James D. Martin
-Développeur, navigateur, humain.
+Tech lead, Développeur, Navigateur.
 
 <div id="webaddress">
 <a href="contact@james-martin.dev">contact@james-martin.dev</a>
 | <a href="https://james-martin.dev">james-martin.dev</a>
 </div>
 
+Né le 27/10/1989
+
+Permis de conduire B
+Permis de travail G
 
 ## Actuellement
 
-En train de développer l'avenir de la Loi @ AXA
+En train de développement le futur de la LegalTech @ AXA
 
-### Spécialités
+### Specialized in
 
-Javascript, Front-end, Full-stack, Trouver des solutions
+Javascript, Front-end, Full-stack, Conception de solutions
 
-### Intérêts
+### Interests
 
-DevOps, Voile, Green-coding
+DevOps, Voile, Green-coding, Science
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`En cours`
+__Ingénieur en informatique__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Architecture et intégration des systèmes et logiciels  
+_CNAM_
 
-- Sizar
+`2015`
+__BTS Service Informatique aux Organisations__
+- Option SLAM (Solutions Logicielles et Applications Métier)  
+_Lycée la Martinière-Duchère, Lyon_
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Langues
 
-- Fellow
+`Bilingue`
+Français
 
+`Bilingual`
+Anglais
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`Courant`
+Italien
 
 
 ## Publications

@@ -3,7 +3,7 @@ layout: cv
 title: James D. Martin
 ---
 # James D. Martin
-Developer, Tech lead, sailor.
+Tech lead, Developer, Sailor.
 
 <div id="webaddress">
 <a href="contact@james-martin.dev">contact@james-martin.dev</a>
@@ -12,18 +12,18 @@ Developer, Tech lead, sailor.
 
 Born 27/10/1989
 
-B Driving License
+B Driving License  
 G Work permit
 
 ## Currently
 
-Developing the future of Law @ AXA
+Developing the future of LegalTech @ AXA
 
 ### Specialized in
 
 Javascript, Front-end, Full-stack, Finding solutions
 
-### Research interests
+### Interests
 
 DevOps, Sailing, Green-coding, Science
 
@@ -32,17 +32,12 @@ DevOps, Sailing, Green-coding, Science
 `In progress`
 __Ingénieur en informatique__
 
-- Architecture et intégration des systèmes et logiciels
-
+- Architecture et intégration des systèmes et logiciels  
 _CNAM_
 
 `2015`
-__BTS SIO__
-
-- BTS Service Informatique aux Organisations
-
-Option SLAM (Solutions Logicielles et Applications Métier)
-
+__BTS Service Informatique aux Organisations__
+- Option SLAM (Solutions Logicielles et Applications Métier)  
 _Lycée la Martinière-Duchère, Lyon_
 
 ## Languages

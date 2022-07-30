@@ -25,10 +25,9 @@ Full-stack, Conception de solutions, Front-end
 
 ### Intérêts
 
-DevOps, Voile, Green-coding, Science
+Voile, Green-coding, Science
 
 ## Formation
-
 `En cours`
 __Ingénieur en informatique__
 
@@ -63,7 +62,7 @@ _Vue,NodeJS_
 `Juillet 2019 - Juin 2021`
 __Développeur logiciel senior__, AXA
 
-- Warden  
+- Warden
 _Vue,NodeJS_
 - Minted coins
 
@@ -74,5 +73,3 @@ __Co-fondateur & développeur full-stack__, InstanT
 <!-- ### Footer
 
 Dernière mise à jour: Juillet 2022 -->
-
-

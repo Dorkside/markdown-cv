@@ -1,4 +1,5 @@
 html {
+  max-width: 100vw;
   overflow-x: hidden;
 }
 
@@ -19,4 +20,10 @@ h1 {
 
 .emoji {
   margin-bottom: -4px;
+}
+
+.languages {
+  position: absolute;
+  top: 64px;
+  right: 64px;
 }

@@ -52,16 +52,31 @@ _Lycée la Martinière-Duchère, Lyon_
 `Juillet 2021 - Aujourd'hui`
 __Tech lead__, AXA
 
-Wraden  
-- Vue
-- NodeJS
+_Suite à une collaboration en tant qu'externe réussie, mes compétences ont été internalisées afin de faire évoluer une partie de l'écosystème logiciel du projet._
+
+• Gestion de l'industrialisation d'un PoC au sein de projet. Architecture, coordination d'équipe, communication auprès des clients et documentation du projet. Cette transformation inclut la mise en place d'un CI/CD, la mise en place d'un déploiement continu, la mise en place d'un monitoring et la modification du code afin de passer d'une client lourd à un client léger.
+- Méthodoliges agiles : Scrum, Kanban et Lean
+- OpenShift
+- Docker
+- Codebuild
+- Documentation technique
 
 `Juillet 2019 - Juin 2021`
 __Développeur logiciel senior__, AXA
 
-Warden  
-- Vue
+_Premier emploi au sein d'un grand groupe, cette expérience a été pour moi l'occasion de remettre en perspective mes acquis. La rencontre avec de talentueux développeurs, et des coeurs de métiers plus orientés vers la gestion et l'assurance, ont élargi ma vision du monde professionnel._  
+_Découverte du concept de la LegalTech et des avancées d'AXA en la matière._
+
+• Développement d'un PoC pour mettre en pratique chez les clients la logique métier proposée par le projet. Optimisation du code pour des contraintes de réseau et de fiabilité.
+- Vue.js
+- AWS S3 & Cloudfront
+
+• Intégration de l'équipe et montée en compétences sur la pile technologique utilisée par le projet. Nécessité de convertir mes connaissances en Angular vers une stack Vue.js. Analyse de la dynamique d'équipe et de la demande de l'entreprise afin de mettre mon expertise à disposition.
+- Vue.js
 - NodeJS
+- OVH
+- Javascript
+
 
 `2016 - Juin 2019`
 __Technical lead__, SPARTE
@@ -95,6 +110,15 @@ __Développeur full-stack__, Créa'Studio
 Conception d'un PoC de GMAO pour Lombardi SA basé sur des évènements temps réel afin de proposer une vision de la maintenance collaborative.  
 - Firebase
 - Ionic
+
+## Projets personnels
+
+`2019 - Aujourd'hui`
+__Développeur full-stack__, XI Driver
+
+Conception et mise en production d'un logiciel de gestion de taxis médicalisés pour une société marseillaise.
+- Vue.js
+- Firebase
 
 `2014`
 __Co-fondateur & développeur full-stack__, InstanT

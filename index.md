@@ -116,7 +116,8 @@ _As the first employee of a budding software company, I designed and developed p
 • Led a multidisciplinary team in developing and delivering a collaborative platform for managing BIM model data to customers  
 • Coordinated the team to ensure seamless delivery and developed expertise in DevOps, including OpenShift platform administration  
 • Effectively communicated with team members to ensure coordination and developed the platform using Angular  
-• Successfully delivered the collaborative platform to customers  
+• Successfully delivered the collaborative platform to customers
+
 - Team&nbsp;management
 - Angular
 - NodeJS

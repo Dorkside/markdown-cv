@@ -2,6 +2,7 @@
 layout: cv
 title: James D. Martin
 ---
+
 # ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
 ![logo]({{site.url}}/assets/img/logo.png)
 

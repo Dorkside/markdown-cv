@@ -53,8 +53,8 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 12pt;
-	line-height: 1.35em;
+	font-size: 100%;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
 	/*margin-top: 1em;
@@ -119,6 +119,21 @@ h1,h2,h3,h4 {
 	width: 80%;
 }
 
+h1 + p {
+	margin-top: -.5em;
+	font-style: italic;
+	font-size: 110%;
+}
+h2 + p {
+	margin-top: -1.6em;
+}
+h3 + p {
+	margin-top: -1em;
+}
+h4 + p {
+	margin-top: -1em;
+}
+
 h1 {
 	text-align: left;
 	font-size: 3em;
@@ -127,16 +142,10 @@ h1 {
 	left: 25%;
 }
 
-h1+p {
-	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
-}
-
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 3em;
 	position: relative;
 	text-align: right;
 	width: 20%;
@@ -145,7 +154,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	line-height: 1em;
 	color: #ccc;
 	position: relative;
 	text-align: right;
@@ -156,6 +165,15 @@ h4 {
 	position: relative;
 	text-align: right;
 	width: 20%;
+}
+
+h5 {
+	margin-left: 25%;
+	text-decoration: underline;
+}
+
+h5 {
+	margin-left: 25%;
 }
 
 a {
@@ -194,5 +212,6 @@ strong {
 	visibility: hidden;
 }
 
-
-
+.emoji {
+	margin-bottom: -4px;
+}

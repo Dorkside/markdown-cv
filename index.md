@@ -116,7 +116,7 @@ Successfully designed a PoC that demonstrated the benefits of a collaborative ma
 
 ## Personal projects
 
-### __Full-stack developer__, XI Driver `2019 - Today`
+### __Full-stack developer__, XI Driver `2019 - Today`
 
 #### Medicalized Taxi Management Software Production
 

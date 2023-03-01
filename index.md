@@ -116,8 +116,7 @@ Successfully designed a PoC that demonstrated the benefits of a collaborative ma
 
 ## Personal projects
 
-`2019 - Today`
-### __Full-stack developer__, XI Driver
+### __Full-stack developer__, XI Driver `2019 - Today`
 
 #### Medicalized Taxi Management Software Production
 
@@ -129,8 +128,7 @@ Demonstrated an ability to understand client needs and find a compromise to allo
 - Vue.js
 - Firebase
 
-`2014`
-### __Co-founder & full-stack developer__, InstanT
+### __Co-founder & full-stack developer__, InstanT `2014`
 
 #### Interpreter Platform Design and Deployment
 

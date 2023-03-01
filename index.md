@@ -131,7 +131,7 @@ Demonstrated an ability to understand client needs and find a compromise to allo
 - Firebase
 
 ### __Co-founder & full-stack developer__
-#### InstanT
+#### InstanT
 `2014`
 
 ##### Interpreter Platform Design and Deployment

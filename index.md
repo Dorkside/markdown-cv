@@ -117,9 +117,9 @@ Successfully designed a PoC that demonstrated the benefits of a collaborative ma
 ## Personal projects
 
 `2019 - Today`
-__Full-stack developer__, XI Driver
+### __Full-stack developer__, XI Driver
 
-### Medicalized Taxi Management Software Production
+#### Medicalized Taxi Management Software Production
 
 Successfully designed and produced a management software solution for a Marseille-based company that met their needs and addressed their concerns about transitioning to a software solution.
 Improved operations and patient care through better management of medicalized taxis, schedules, and assignments.
@@ -130,9 +130,9 @@ Demonstrated an ability to understand client needs and find a compromise to allo
 - Firebase
 
 `2014`
-__Co-founder & full-stack developer__, InstanT
+### __Co-founder & full-stack developer__, InstanT
 
-### Interpreter Platform Design and Deployment
+#### Interpreter Platform Design and Deployment
 
 Designed and deployed an interpreter platform similar to Uber, utilizing Ruby on Rails for the backend and Java for the frontend.
 Created a platform that addressed the needs of interpreters, successfully meeting project goals and objectives.

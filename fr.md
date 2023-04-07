@@ -4,8 +4,10 @@ title: James D. Martin
 ---
 # ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
 ![logo]({{site.url}}/assets/img/logo.png)
-Full-Stack Tech lead
-Navigateur
+
+Full-Stack  
+Tech lead  
+Navigateur  
 
 :email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  
 :computer: [james-martin.dev](https://james-martin.dev)  

@@ -163,11 +163,11 @@ _As the first employee of a budding software company, I designed and developed p
 • Designed and deployed an interpreter platform similar to Uber, utilizing Ruby on Rails for the backend and Java for the frontend  
 • Created a platform that addressed the needs of interpreters, successfully meeting project goals and objectives  
 • Demonstrated an ability to learn new skills and technologies in a timely manner, resulting in personal and professional growth  
-• Gained expertise in modern technologies, including Ruby on Rails and Java, which can be leveraged in future roles  
+• Gained expertise in modern technologies
 
 - Ruby&nbsp;on&nbsp;Rails
-- Java
 - Twilio
+- Native&nbsp;Android
 
 <!-- ### Footer
 

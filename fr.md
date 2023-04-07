@@ -161,11 +161,11 @@ _En tant que premier employé d'une entreprise émergente de logiciels, j'ai con
 • Conçu et déployé une plateforme d'interprétation similaire à Uber, utilisant Ruby on Rails pour le backend et Java pour le frontend  
 • Créé une plateforme qui répondait aux besoins des interprètes, atteignant avec succès les objectifs et les buts du projet  
 • Démontré une capacité à apprendre de nouvelles compétences et technologies de manière rapide, entraînant une croissance personnelle et professionnelle  
-• Acquis une expertise dans les technologies modernes, telles que Ruby on Rails et Java, qui peuvent être exploitées dans des rôles futurs  
+• Acquis une expertise dans les technologies modernes 
 
 - Ruby&nbsp;on&nbsp;Rails
-- Java
 - Twilio
+- Native&nbsp;Android
 
 <!-- ### Footer
 

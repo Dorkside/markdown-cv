@@ -5,7 +5,6 @@ title: James D. Martin
 
 # ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
 ![logo]({{site.url}}/assets/img/logo.png)
-
 Frontend Engineer & Technical Lead | Multilingual :fr: :uk: :it:
 
 :email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  

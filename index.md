@@ -39,7 +39,7 @@ Currently integrating a LLM-powered plugin into the toolchain.
 
 `July 2019 - June 2021`
 
-Gained experience in the emerging field of LegalTech and the intersection between the legal and technological fields.  
+Gained experience in the emerging field of LegalTech.  
 Adapted Angular knowledge to Vue.js technology stack and became a valuable reference for the team.
 
 

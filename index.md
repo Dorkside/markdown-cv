@@ -6,7 +6,7 @@ title: James D. Martin
 # ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
 ![logo]({{site.url}}/assets/img/logo.png)
 
-## Frontend Engineer & Technical Lead | Multilingual :fr: :uk: :it:
+Frontend Engineer & Technical Lead | Multilingual :fr: :uk: :it:
 
 :email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  
 :computer: [james-martin.dev](https://james-martin.dev)  
@@ -17,7 +17,7 @@ title: James D. Martin
 :link: [github.com/Dorkside](https://github.com/Dorkside)  
 :link: [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside/)
 
-## Skills
+## Skills
 **Frontend Development**: Proficient in Vue.js, with extensive experience in building complex UI components and leading frontend initiatives to standardize component usage across projects. Good understanding of DOM, ShadowDOM, VirtualDOM.
 
 **Collaboration**: Regularly exchange information with data scientists and machine learning practitioners. Experienced in managing teams and projects, ensuring seamless delivery, and meeting stakeholder requirements.
@@ -30,18 +30,18 @@ title: James D. Martin
 
 `July 2021 - Present`
 
-Overseeing the development and implementation of complex software solutions.
-Building the future of LegalTech at AXA.
-Leading a front-end initiative to standardize components across projects.
-Currently integrating a LLM-powered plugin into the toolchain.
+Overseeing the development and implementation of complex software solutions. 
+Building the future of LegalTech at AXA. 
+Leading a front-end initiative to standardize components across projects. 
+Currently integrating a LLM-powered plugin into the toolchain. 
 
 ### __Senior software developer__
 #### AXA
 
 `July 2019 - June 2021`
 
-Gained experience in the emerging field of LegalTech and the intersection between the legal and technological fields.
-Adapted Angular knowledge to Vue.js technology stack and became a valuable reference for the team.
+Gained experience in the emerging field of LegalTech and the intersection between the legal and technological fields. 
+Adapted Angular knowledge to Vue.js technology stack and became a valuable reference for the team. 
 
 
 ### __Technical lead__
@@ -49,7 +49,7 @@ Adapted Angular knowledge to Vue.js technology stack and became a valuable refer
 
 `2016 - June 2019`
 
-Coordinated a multidisciplinary team in developing and delivering a collaborative platform for managing BIM model data to customers.
+Coordinated a multidisciplinary team in developing and delivering a collaborative platform for managing BIM model data to customers. 
 Developed expertise in DevOps.
 
 ### __Full-stack developer__

@@ -29,18 +29,18 @@ Frontend Engineer & Technical Lead | Multilingual :fr: :uk: :it:
 
 `July 2021 - Present`
 
-Overseeing the development and implementation of complex software solutions. 
-Building the future of LegalTech at AXA. 
-Leading a front-end initiative to standardize components across projects. 
-Currently integrating a LLM-powered plugin into the toolchain. 
+Overseeing the development and implementation of complex software solutions.  
+Building the future of LegalTech at AXA.  
+Leading a front-end initiative to standardize components across projects.  
+Currently integrating a LLM-powered plugin into the toolchain.
 
 ### __Senior software developer__
 #### AXA
 
 `July 2019 - June 2021`
 
-Gained experience in the emerging field of LegalTech and the intersection between the legal and technological fields. 
-Adapted Angular knowledge to Vue.js technology stack and became a valuable reference for the team. 
+Gained experience in the emerging field of LegalTech and the intersection between the legal and technological fields.  
+Adapted Angular knowledge to Vue.js technology stack and became a valuable reference for the team.
 
 
 ### __Technical lead__
@@ -48,7 +48,7 @@ Adapted Angular knowledge to Vue.js technology stack and became a valuable refer
 
 `2016 - June 2019`
 
-Coordinated a multidisciplinary team in developing and delivering a collaborative platform for managing BIM model data to customers. 
+Coordinated a multidisciplinary team in developing and delivering a collaborative platform for managing BIM model data to customers.  
 Developed expertise in DevOps.
 
 ### __Full-stack developer__

@@ -28,24 +28,24 @@ Responsable technique & Ingénieur produit | Multilingue :fr: :uk: :it:
 
 `Juillet 2019 - Aujourd'hui`
 
-- Assuré des rôles de leadership et de mentorat, supervisant le développement et la mise en œuvre de solutions logicielles complexes.
-- Géré l'industrialisation d'un projet PoC, démontrant mes compétences en ingénierie produit et ma capacité à livrer un produit conforme aux exigences des parties prenantes.
-- Adapté avec succès à de nouvelles piles technologiques et devenu compétent en Vue.js.
+Assuré des rôles de leadership et de mentorat, supervisant le développement et la mise en œuvre de solutions logicielles complexes.  
+Géré l'industrialisation d'un projet PoC, démontrant mes compétences en ingénierie produit et ma capacité à livrer un produit conforme aux exigences des parties prenantes.  
+Adapté avec succès à de nouvelles piles technologiques et devenu compétent en Vue.js.
 
 ### __Responsable technique__
 #### SPARTE
 
 `2016 - Juin 2019`
 
-- Dirigé le développement d'une plateforme collaborative pour la gestion de données de modèles BIM.
-- Coordonné une équipe multidisciplinaire, démontrant mes compétences en leadership et en gestion d'équipe.
+Dirigé le développement d'une plateforme collaborative pour la gestion de données de modèles BIM.  
+Coordonné une équipe multidisciplinaire, démontrant mes compétences en leadership et en gestion d'équipe.
 
 ### __Développeur Full-stack__
 #### Créa'Studio
 
 `2015`
 
-- Conçu un PoC pour une approche de maintenance collaborative, démontrant ma capacité à conceptualiser et développer des solutions innovantes.
+Conçu un PoC pour une approche de maintenance collaborative, démontrant ma capacité à conceptualiser et développer des solutions innovantes.
 
 ## Projets personnels
 
@@ -54,14 +54,14 @@ Responsable technique & Ingénieur produit | Multilingue :fr: :uk: :it:
 
 `2019 - Aujourd'hui`
 
-- Conçu et produit une solution logicielle de gestion, démontrant ma capacité à développer des produits qui répondent aux besoins des clients et améliorent les opérations.
+Conçu et produit une solution logicielle de gestion, démontrant ma capacité à développer des produits qui répondent aux besoins des clients et améliorent les opérations.
 
 ### __Co-fondateur & Développeur Full-stack__
 #### InstanT
 
 `2014`
 
-- Co-fondé et développé une plateforme d'interprétation, mettant en avant mon esprit entrepreneurial et ma capacité à développer et livrer des produits qui répondent aux besoins des utilisateurs.
+Co-fondé et développé une plateforme d'interprétation, mettant en avant mon esprit entrepreneurial et ma capacité à développer et livrer des produits qui répondent aux besoins des utilisateurs.
 
 <!-- ### Footer
 

@@ -16,11 +16,11 @@ Technical lead & Product engineer | Multilingual :fr: :uk: :it:
 :link: [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside/)
 
 ## Skills
-**Frontend Development**: Proficient in Vue.js, with extensive experience in building complex UI components and leading frontend initiatives to standardize component usage across projects. Good understanding of DOM, ShadowDOM, VirtualDOM.
+**Product Engineering**: Proven ability in developing and implementing end-to-end software solutions that meet stakeholder requirements and user needs.
 
-**Collaboration**: Regularly exchange information with data scientists and machine learning practitioners. Experienced in managing teams and projects, ensuring seamless delivery, and meeting stakeholder requirements.
+**Technical Leadership**: Demonstrated experience in leading multidisciplinary teams, fostering personal growth among team members, and managing complex software projects.
 
-**Adaptability**: Demonstrated ability to respond quickly to the changing needs of users in fast-paced, innovative environments. Proactive in implementing improvements and UI updates to accommodate new use cases.
+**Entrepreneurship**: Co-founded and developed a successful interpreter platform, showcasing a strong entrepreneurial spirit and ability to thrive in fast-paced, innovative environments.
 
 ## Work experience
 ### __Technical lead & Product engineer__

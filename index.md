@@ -5,7 +5,7 @@ title: James D. Martin
 
 # ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
 ![logo]({{site.url}}/assets/img/logo.png)
-Frontend Engineer & Technical Lead | Multilingual :fr: :uk: :it:
+Technical lead & Product engineer | Multilingual :fr: :uk: :it:
 
 :email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  
 :computer: [james-martin.dev](https://james-martin.dev)  
@@ -23,73 +23,46 @@ Frontend Engineer & Technical Lead | Multilingual :fr: :uk: :it:
 **Adaptability**: Demonstrated ability to respond quickly to the changing needs of users in fast-paced, innovative environments. Proactive in implementing improvements and UI updates to accommodate new use cases.
 
 ## Work experience
-### __Tech lead__
+### __Technical lead & Product engineer__
 #### AXA
 
-`July 2021 - Present`
+`July 2019 - Today`
 
-Overseeing the development and implementation of complex software solutions.  
-Building the future of LegalTech at AXA.  
-Leading a front-end initiative to standardize components across projects.  
-Currently integrating a LLM-powered plugin into the toolchain.
-
-### __Senior software developer__
-#### AXA
-
-`July 2019 - June 2021`
-
-Gained experience in the emerging field of LegalTech.  
-Adapted Angular knowledge to Vue.js technology stack and became a valuable reference for the team.
-
+- Took on leadership and mentorship roles, overseeing the development and implementation of complex software solutions.
+- Managed industrialization of a PoC project, demonstrating my product engineering skills and ability to deliver a product that meets stakeholder requirements.
+- Successfully adapted to new technology stacks and became proficient in Vue.js, demonstrating my ability to quickly learn and adapt, a critical skill in a rapidly evolving environment.
 
 ### __Technical lead__
 #### SPARTE
 
 `2016 - June 2019`
 
-Coordinated a multidisciplinary team in developing and delivering a collaborative platform for managing BIM model data to customers.  
-Developed expertise in DevOps.
+- Led the development of a collaborative platform for managing BIM model data, showcasing my ability to deliver successful products.
+- Coordinated a multidisciplinary team, demonstrating my leadership and team management skills.
 
 ### __Full-stack developer__
 #### Créa'Studio
 
 `2015`
 
-Designed a Proof of Concept (PoC) that demonstrated the benefits of a collaborative maintenance approach.
-
-## Education
-### __Software Engineering__
-#### Masters degree
-
-`In progress`
-
-Architecture and integration of systems and software  
-_CNAM_
-
-### __Computer Science__
-#### Associates degree
-
-`2015`
-
-Software and Business Applications Solutions  
-_Lycée la Martinière-Duchère, Lyon_
+- Designed a PoC for a collaborative maintenance approach, demonstrating my ability to conceptualize and develop innovative solutions.
 
 ## Personal projects
 
-### __Full-stack developer__
+### __Full-stack developer & Product engineer__
 #### XI Driver
 
-`2019 - Present`
+`2019 - Today`
 
-Designed and produced a management software solution for a Marseille-based company, improving operations and patient care.
+- Designed and produced a management software solution, demonstrating my ability to develop products that meet client needs and improve operations.
 
 ### __Co-founder & full-stack developer__
 #### InstanT
 
 `2014`
 
-Designed and deployed an interpreter platform similar to Uber.
+- Co-founded and developed an interpreter platform, showcasing my entrepreneurial spirit and my ability to develop and deliver products that meet user needs.
 
 <!-- ### Footer
 
-Last updated: July 2023 -->
+Last updated: October 2023 -->

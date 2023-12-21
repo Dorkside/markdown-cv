@@ -1,68 +1,78 @@
 ---
 layout: cv
-title: James D. Martin
+title: James Martin
 ---
 
-# ![portrait]({{site.url}}/assets/img/portrait.jpg) James D. Martin
-![logo]({{site.url}}/assets/img/logo.png)
-Technical lead & Product engineer | Multilingual :fr: :uk: :it:
+# James Martin
 
-:email: [contact@james-martin.dev](mailto:contact@james-martin.dev)  
-:computer: [james-martin.dev](https://james-martin.dev)  
-:telephone_receiver: +33(0)7.62.68.60.70  
-:baby: Born on 27/10/1989  
-:car: B driving license  
-:link: [github.com/Dorkside](https://github.com/Dorkside)  
-:link: [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside/)
+## Fullstack/Product Engineer
+
+**Location:** France (seeking for a remote position)  
+**Email:** contact@james-martin.dev  
+**Website:** [james-martin.dev](https://www.james-martin.dev)  
+**LinkedIn:** [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside)
+
+## Objective
+
+Innovative and adaptable Fullstack Engineer with a strong foundation in the JS/TS ecosystem, special interest in AI, and experience in product engineering. Eager to contribute to a meaningful project with impact that values fast iteration and collaboration.
+Specially good at leading fast-paced projects, and building creative solutions to complex problems.
+
+## Professional Experience
+
+### Technical lead | AI Engineer (2019 - Present)
+
+#### _AXA Group Operations, Lausanne, Vaud, Switzerland_
+
+##### AI Engineer (2023 - Present)
+
+- Specialized in the industrialization of AI technologies, with a focus on enhancing user experience and product functionality. Langchain, Llamaindex, OpenAI, MLFlow and Airflow have become a part of my toolbox.
+- Proficient in collaborating with cross-functional teams, aligning AI project goals with broader business objectives.
+
+##### Technical Lead (2021 - Present)
+
+- Expertise in the JS/TS ecosystem, leading to the successful deployment of scalable software solutions.
+- Implemented process optimizations, significantly improving project execution and efficiency.
+
+##### Software Engineer (2019 - 2021)
+
+- Developed a customer-facing widget using JS, resulting in improved performance and user experience, while reducing training costs for call center agents.
+- Adapted to emerging technologies to enhance product features.
+
+### Technical lead (2015-2019)
+
+#### _SPARTE, Lyon, France_
+
+- Managed a team to develop a BIM data management platform, leveraging Noade, GraphQL and Angular.
+- Demonstrated strong leadership in coordinating multidisciplinary teams.
+
+### Full-Stack Developer (2015)
+
+#### _Créati'ON Studio, Lyon, France_
+
+- Designed a collaborative maintenance tool in Node, Firebase and Ionic, showcasing innovation in software solution development.
+
+### Founding engineer (2014-2015)
+
+#### _InstanT, Lyon, France_
+
+- Designed and developed a fully functional uber-like platform for interpreters based on Ruby on Rails and Android.
+
+## Education
+
+**Cnam** (Expected Graduation June 2025)
+
+- Engineering degree, Computer Science
+
+**Lycée la Martinière Duchère** (2013 - 2015)
+
+- BTS SIO, Computer science
 
 ## Skills
-**Product Engineering**: Proven ability in developing and implementing end-to-end software solutions that meet stakeholder requirements and user needs.
 
-**Technical Leadership**: Demonstrated experience in leading multidisciplinary teams, fostering personal growth among team members, and managing complex software projects.
+- **Technical skills:** Proficient in the JS/TS ecosystem : Node.js, GraphQL, Firebase, Vue, Angular, React; Familiar with Ruby on Rails and Python; Experience with AI technologies.
+- **Soft Skills:** Proven leadership, team management, effective communication, and stakeholder engagement.
+- **Languages:** English (Bilingual), French (Bilingual), Italian (Intermediate)
 
-**Entrepreneurship**: Co-founded and developed a successful interpreter platform, showcasing a strong entrepreneurial spirit and ability to thrive in fast-paced, innovative environments.
+## References
 
-## Work experience
-### __Technical lead & Product engineer__
-#### AXA
-
-`July 2019 - Today`
-
-Took on leadership and mentorship roles, overseeing the development and implementation of complex software solutions.  
-Managed industrialization of a PoC project, demonstrating my product engineering skills and ability to deliver a product that meets stakeholder requirements.  
-Successfully adapted to new technology stacks and became proficient in Vue.js, demonstrating my ability to quickly learn and adapt, a critical skill in a rapidly evolving environment.
-
-### __Technical lead__
-#### SPARTE
-
-`2016 - June 2019`
-
-Led the development of a collaborative platform for managing BIM model data, showcasing my ability to deliver successful products.  
-Coordinated a multidisciplinary team, demonstrating my leadership and team management skills.
-
-### __Full-stack developer__
-#### Créa'Studio
-
-`2015`
-
-Designed a PoC for a collaborative maintenance approach, demonstrating my ability to conceptualize and develop innovative solutions.
-
-## Personal projects
-
-### __Full-stack developer & Product engineer__
-#### XI Driver
-
-`2019 - Today`
-
-Designed and produced a management software solution, demonstrating my ability to develop products that meet client needs and improve operations.
-
-### __Co-founder & full-stack developer__
-#### InstanT
-
-`2014`
-
-Co-founded and developed an interpreter platform, showcasing my entrepreneurial spirit and my ability to develop and deliver products that meet user needs.
-
-<!-- ### Footer
-
-Last updated: October 2023 -->
+Available upon request

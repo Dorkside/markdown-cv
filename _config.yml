@@ -1,5 +1,5 @@
-markdown:   kramdown
-style:  davewhipp
+markdown: kramdown
+style: kjhealy
 url: https://dorkside.github.io/markdown-cv/
 plugins:
   - jemoji

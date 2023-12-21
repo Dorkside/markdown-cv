@@ -1,0 +1,73 @@
+/* Define colors and fonts */
+:root {
+  --primary-color: #333; /* Dark grey for primary text */
+  --secondary-color: #555; /* Lighter grey for secondary text */
+  --background-color: #fff; /* White background */
+  --link-color: #007bff; /* Blue for links */
+  --primary-font: 'Montserrat', Helvetica, Arial, sans-serif;
+  --title-font: 'Josefin Slab', sans-serif;
+}
+
+/* Base styles */
+body {
+  font-size: 20px;
+  font-family: var(--primary-font);
+  color: var(--primary-color);
+  background-color: var(--background-color);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h1, h2 {
+  font-family: var(--title-font);
+}
+
+h1 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: 4rem;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+h4 {
+  font-family: var(--title-font);
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Container for content */
+.container {
+  width: calc(100% - 2rem);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}

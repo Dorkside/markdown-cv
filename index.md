@@ -7,71 +7,73 @@ title: James Martin
 
 ## Fullstack/Product Engineer
 
-**Location:** France (seeking for a remote position)  
+**Location:** France (seeking remote, part-time, or project-based contracts)  
 **Email:** contact@james-martin.dev  
 **Website:** [james-martin.dev](https://www.james-martin.dev)  
 **LinkedIn:** [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside)
 
 ## Objective
 
-Innovative and adaptable Fullstack Engineer with a strong foundation in the JS/TS ecosystem, special interest in AI, and experience in product engineering. Eager to contribute to a meaningful project with impact that values fast iteration and collaboration.
-Specially good at leading fast-paced projects, and building creative solutions to complex problems.
-
-## Professional Experience
-
-### Technical lead | AI Engineer (2019 - Present)
-
-#### _AXA Group Operations, Lausanne, Vaud, Switzerland_
-
-##### AI Engineer (2023 - Present)
-
-- Specialized in the industrialization of AI technologies, with a focus on enhancing user experience and product functionality. Langchain, Llamaindex, OpenAI, MLFlow and Airflow have become a part of my toolbox.
-- Proficient in collaborating with cross-functional teams, aligning AI project goals with broader business objectives.
-
-##### Technical Lead (2021 - Present)
-
-- Expertise in the JS/TS ecosystem, leading to the successful deployment of scalable software solutions.
-- Implemented process optimizations, significantly improving project execution and efficiency.
-
-##### Software Engineer (2019 - 2021)
-
-- Developed a customer-facing widget using JS, resulting in improved performance and user experience, while reducing training costs for call center agents.
-- Adapted to emerging technologies to enhance product features.
-
-### Technical lead (2015-2019)
-
-#### _SPARTE, Lyon, France_
-
-- Managed a team to develop a BIM data management platform, leveraging Noade, GraphQL and Angular.
-- Demonstrated strong leadership in coordinating multidisciplinary teams.
-
-### Full-Stack Developer (2015)
-
-#### _Créati'ON Studio, Lyon, France_
-
-- Designed a collaborative maintenance tool in Node, Firebase and Ionic, showcasing innovation in software solution development.
-
-### Founding engineer (2014-2015)
-
-#### _InstanT, Lyon, France_
-
-- Designed and developed a fully functional uber-like platform for interpreters based on Ruby on Rails and Android.
-
-## Education
-
-**Cnam** (Expected Graduation June 2025)
-
-- Engineering degree, Computer Science
-
-**Lycée la Martinière Duchère** (2013 - 2015)
-
-- BTS SIO, Computer science
+Innovative Fullstack Engineer with a strong foundation in **JavaScript/TypeScript** and a passion for AI technologies. Experienced in leading fast-paced projects and delivering creative solutions. Seeking opportunities to contribute to impactful projects that value rapid iteration and collaboration.
 
 ## Skills
 
-- **Technical skills:** Proficient in the JS/TS ecosystem : Node.js, GraphQL, Firebase, Vue, Angular, React; Familiar with Ruby on Rails and Python; Experience with AI technologies.
-- **Soft Skills:** Proven leadership, team management, effective communication, and stakeholder engagement.
+- **Front-End:** Vue.js, Angular, React, HTML5, CSS3, responsive design.
+- **Back-End:** Node.js, Express.js, GraphQL, RESTful APIs.
+- **Database:** Firebase, MongoDB, SQL.
+- **Cloud & DevOps:** Firebase Cloud Functions, serverless architectures, CI/CD pipelines.
+- **GenAI:** OpenAI APIs, Langchain, Llamaindex, MLFlow, Airflow.
+- **Project Management:** Agile methodologies, team leadership, cross-functional collaboration.
 - **Languages:** English (Bilingual), French (Bilingual), Italian (Intermediate)
+
+## Freelance Projects
+
+### Freelance Fullstack/Product Engineer (2024 - Present)
+
+- **Client:** Taxi OKA, Marseille, France
+  - Developed a dispatch platform and driver app, transitioning operations from paper-based to digital.
+  - Reduced daily planning time from 2 hours to under 30 minutes; saved 10 hours monthly in data collection.
+  - Implemented real-time collaboration and year-over-year analytics.
+  - Tailored the solution to align with existing processes, ensuring a smooth transition and high user adoption.
+  - **Technologies:** Vue.js, Firebase, Firebase Cloud Functions.
+
+## Professional Experience
+
+### Technical Lead | AI Engineer (2019 - Present)
+
+#### AXA Group Operations, Lausanne, Switzerland
+
+- **AI Engineer (2023 - 2024)**
+  - Industrialized AI technologies to enhance user experience and product functionality.
+  - Collaborated with cross-functional teams to align AI projects with business objectives.
+  - **Tools:** Langchain, Llamaindex, OpenAI, MLFlow, Airflow.
+
+- **Technical Lead (2021 - Present)**
+  - Led deployment of scalable software solutions in the JavaScript/TypeScript ecosystem.
+  - Implemented process optimizations, improving project execution and efficiency.
+
+- **Software Engineer (2019 - 2021)**
+  - Developed a customer-facing widget using JavaScript, enhancing performance and user experience.
+  - Reduced training costs for call center agents.
+
+### Technical Lead (2015 - 2019)
+
+#### SPARTE, Lyon, France
+
+- Managed a team to develop a BIM data management platform.
+- Coordinated multidisciplinary teams, demonstrating strong leadership.
+- **Technologies:** Node.js, GraphQL, Angular.
+
+### Full-Stack Developer (2015)
+
+#### Créati'ON Studio, Lyon, France
+
+- Designed a collaborative maintenance tool.
+- **Technologies:** Node.js, Firebase, Ionic.
+
+### Other Experience
+
+#### Founding Engineer, InstanT (2014–2015)
 
 ## References
 

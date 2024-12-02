@@ -1,28 +1,27 @@
 /* Define colors and fonts */
 :root {
-  --primary-color: #333; /* Dark grey for primary text */
-  --secondary-color: #555; /* Lighter grey for secondary text */
-  --background-color: #fff; /* White background */
-  --link-color: #007bff; /* Blue for links */
+  --primary-color: #2c3e50; /* Dark slate for primary text */
+  --secondary-color: #7f8c8d; /* Muted grey for secondary text */
+  --background-color: #ffffff; /* White background */
+  --link-color: #2980b9; /* Deep blue for links */
   --primary-font: 'Montserrat', Helvetica, Arial, sans-serif;
-  --title-font: 'Josefin Slab', sans-serif;
+  --title-font: 'Josefin Slab', serif;
 }
 
 /* Base styles */
 body {
-  font-size: 20px;
+  font-size: 11pt; /* Reduced font size for space efficiency */
   font-family: var(--primary-font);
   color: var(--primary-color);
   background-color: var(--background-color);
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
+  line-height: 1.4; /* Slightly tighter line spacing */
+  margin: 0.5in; /* Reduced margins to maximize content area */
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--primary-color);
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0.5rem;
 }
 
 h1, h2 {
@@ -30,20 +29,20 @@ h1, h2 {
 }
 
 h1 {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  font-size: 4rem;
+  font-size: 1.8rem; /* Reduced font size */
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: 0.3rem;
 }
 
 h2 {
-  margin-top: 2rem;
+  font-size: 1.4rem; /* Reduced font size */
   font-weight: 700;
-  text-decoration: underline;
+  margin-top: 0.8rem;
 }
 
 h4 {
   font-family: var(--title-font);
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 a {
@@ -57,17 +56,66 @@ a:hover {
 
 /* Container for content */
 .container {
-  width: calc(100% - 2rem);
-  max-width: 1200px;
+  width: 100%;
+  max-width: 8.5in; /* Standard letter size width */
   margin: 0 auto;
 }
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0.8rem; /* Reduced margin */
 }
 
 ul {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0.8rem; /* Reduced margin */
+  padding-left: 1.2rem; /* Adjusted padding */
+}
+
+li {
+  margin-bottom: 0.4rem; /* Reduced margin */
+}
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 0.8rem; /* Reduced margin */
+}
+
+td {
+  vertical-align: top;
+  padding: 0.4rem; /* Reduced padding */
+}
+
+/* Print-specific styles */
+@media print {
+  @page {
+    size: A4;
+    margin: 0.5in; /* Reduced margins for print */
+  }
+
+  body {
+    font-size: 10pt; /* Further reduced font size for print */
+    line-height: 1.3; /* Tighter line spacing */
+    color: #000000; /* Ensure text is black for clear printing */
+    background: none; /* Remove background colors/images */
+  }
+
+  a {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  nav, footer, .no-print {
+    display: none;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  p, ul, table {
+    page-break-inside: avoid;
+  }
 }

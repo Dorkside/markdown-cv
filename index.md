@@ -7,7 +7,7 @@ title: James Martin
 
 ## Fullstack/Product Engineer
 
-**Location:** France (seeking remote, part-time, or project-based contracts)  
+**Location:** France  
 **Email:** contact@james-martin.dev  
 **Website:** [james-martin.dev](https://www.james-martin.dev)  
 **LinkedIn:** [linkedin.com/in/dorkside](https://www.linkedin.com/in/dorkside)
@@ -26,54 +26,44 @@ Innovative Fullstack Engineer with a strong foundation in **JavaScript/TypeScrip
 - **Project Management:** Agile methodologies, team leadership, cross-functional collaboration.
 - **Languages:** English (Bilingual), French (Bilingual), Italian (Intermediate)
 
-## Freelance Projects
-
-### Freelance Fullstack/Product Engineer (2024 - Present)
-
-- **Client:** Taxi OKA, Marseille, France
-  - Developed a dispatch platform and driver app, transitioning operations from paper-based to digital.
-  - Reduced daily planning time from 2 hours to under 30 minutes; saved 10 hours monthly in data collection.
-  - Implemented real-time collaboration and year-over-year analytics.
-  - Tailored the solution to align with existing processes, ensuring a smooth transition and high user adoption.
-  - **Technologies:** Vue.js, Firebase, Firebase Cloud Functions.
-
 ## Professional Experience
 
-### Technical Lead | AI Engineer (2019 - Present)
+### Hands-on software lead (2016 - Present)
 
 #### AXA Group Operations, Lausanne, Switzerland
 
-- **AI Engineer (2023 - 2024)**
-  - Industrialized AI technologies to enhance user experience and product functionality.
-  - Collaborated with cross-functional teams to align AI projects with business objectives.
-  - **Tools:** Langchain, Llamaindex, OpenAI, MLFlow, Airflow.
+**Technical Lead (2021 - Present)**
+- Architected and developed scalable, production-ready web applications.
+- Designed and optimized performance-critical features, enhancing durability and security in production.
+- Collaborated with cross-functional teams to deliver user-centric solutions.
+- **Technologies:** Node.js, Vue.js, and TypeScript, Openshift, Docker.
 
-- **Technical Lead (2021 - Present)**
-  - Led deployment of scalable software solutions in the JavaScript/TypeScript ecosystem.
-  - Implemented process optimizations, improving project execution and efficiency.
-
-- **Software Engineer (2019 - 2021)**
-  - Developed a customer-facing widget using JavaScript, enhancing performance and user experience.
-  - Reduced training costs for call center agents.
-
-### Technical Lead (2015 - 2019)
+**Software Engineer (2019 - 2021)**
+- Developed a customer-facing widget using JavaScript, enhancing performance and user experience.
+- Reduced training costs for call center agents.
+- **Technologies:** Node.js, Vue.js.
 
 #### SPARTE, Lyon, France
 
-- Managed a team to develop a BIM data management platform.
-- Coordinated multidisciplinary teams, demonstrating strong leadership.
-- **Technologies:** Node.js, GraphQL, Angular.
+**First employee (2015 - 2019)**
+- Led a team to develop a BIM data management platform using Node.js and Angular.
+- Developed a collaborative maintenance tool leveraging Firebase and Node.js.
+- Gained hands-on experience with fullstack development in early-stage projects.
+- **Technologies:** Node.js, Firebase, GraphQL, Angular.
 
-### Full-Stack Developer (2015)
+### Freelance Fullstack/Product Engineer (2022)
 
-#### Créati'ON Studio, Lyon, France
+#### Taxi OKA, Marseille, France
 
-- Designed a collaborative maintenance tool.
-- **Technologies:** Node.js, Firebase, Ionic.
+- Designed and implemented a real-time dispatch platform, transitioning operations from manual to digital.
+- Reduced operational overhead and enhanced user adoption through tailored features and an intuitive interface.
+- **Technologies:** Vue.js, Firebase, and Firebase Cloud Functions.
 
-### Other Experience
+### Founding Engineer (2014–2015)
 
-#### Founding Engineer, InstanT (2014–2015)
+#### InstanT, France
+- Developed a platform for instant interpretation services, enabling real-time communication between users and interpreters, complete with a payment system.
+- **Technologies:** Ruby on rails, Android, Braintree, Twilio.
 
 ## References
 

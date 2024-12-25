@@ -5,25 +5,25 @@ title: James Martin
 
 # James Martin
 
-4 avenue Jean Léger  
-74500 Evian-les-Bains  
-contact@james-martin.dev
+## Contact
 
-_19/12/2023_
+**Location:** 
+4 avenue Jean Léger 74500 Evian-les-Bains France  
+**Email:** 
+contact@james-martin.dev  
+**Phone:** +33 7 62 68 60 70
 
-**Hiring Manager**  
-GitLab
+## Dear Prezi Recruitment Team,
 
-Dear Hiring Manager,
+In the age of AI-powered applications, transparency is key: this cover letter was written with the help of generative AI tools. Crafting thoughtful prompts, selecting the best outcomes, and refining the final result mirrors the skills required of the next generation of engineers. As with much of my code—enhanced by IDEs and AI—I believe the future of work is a collaboration between humans and machines. I am excited to embrace this future and contribute to Prezi's mission to revolutionize visual storytelling.
 
-I discovered the Frontend Engineer role at GitLab on VueJobs, and it immediately sparked my interest, harmonizing with my journey as a creative product engineer passionate about AI and Vue.js. My website, [james-martin.dev](https://james-martin.dev), paints a vivid picture of my professional ethos - a blend of innovative solution-finding and a vibrant, diverse background.
+With over a decade of experience in web development, I bring a strong product mindset, a structured approach, and a passion for building applications that resonate with users. My expertise includes TypeScript on both frontend and backend, Python for prototyping AI solutions, and reactive frameworks like React and Vue.js. In addition, I’ve worked with generative AI models and prompt engineering, directly aligning with the innovative work of Prezi’s Content Team.
 
-Currently crafting generative AI front-ends at AXA, I resonate deeply with GitLab's culture of rapid iteration and meaningful collaboration. My hands-on experience in leading AI projects, coupled with a penchant for thinking outside the box, nurtured in a life straddling diverse cultures, aligns perfectly with the ethos of GitLab.
+A recent project involved collaborating with cross-functional teams to develop an internal AI-powered tool that is aimed at reducing friction in a particular domain of our application in order to improve customer use of the tool. This experience taught me the power of combining cutting-edge technology with intuitive design to deliver real impact.
 
-At GitLab, I see an opportunity not just to expand my technical horizons but to contribute to a platform that values agility, creativity, and open idea sharing - principles that I live by. My personal and professional life is a testament to embracing change and diversity - attributes I am excited to bring to the GitLab team.
+What excites me most about Prezi is its commitment to fostering a team that deeply cares about innovation and the people behind it. Being part of an organization that celebrates creativity and collaboration would allow me to continue pushing boundaries while learning from others who share this vision.
 
-Thank you for considering my application.  
-The prospect of contributing to GitLab's innovative environment excites me, and I eagerly anticipate the opportunity to bring my skills and experience to your team. I am keen to discuss how my professional journey aligns with GitLab's dynamic projects, and how I can contribute to driving them forward. This role is not just a career move for me, but a chance to inspire my family, especially my son, with the meaningful work GitLab is known for. I look forward to the possibility of connecting with you to explore this opportunity further.
+I would love the opportunity to bring my technical expertise and product-focused mindset to Prezi, helping users create visual presentations they’re proud of. Thank you for considering my application. I look forward to discussing how I can contribute to your team.
 
 Warm regards,
 
